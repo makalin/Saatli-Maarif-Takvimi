@@ -1,6 +1,8 @@
-### Saatli Maarif Takvimi
+# Saatli Maarif Takvimi
 
 Bu proje, modern bir görünüme sahip **Saatli Maarif Takvimi** uygulamasıdır. Hicri, Rumi ve Miladi tarihleri içeren bu takvim, dua saatleri, önemli gün bilgileri ve şehir saatlerini bir arada sunar.
+
+Link: https://makalin.github.io/Saatli-Maarif-Takvimi/
 
 ## Özellikler
 
